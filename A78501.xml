@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain uncertain proposals from freeborn subjects of England, to his Excellency Sir Thomas Fairfax; as they were presented, Aug. 9. 1647. at Croydon in Surrey.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78501</idno>
+            <idno type="STC">Wing C1762</idno>
+            <idno type="STC">Thomason E401_33</idno>
+            <idno type="STC">ESTC R201802</idno>
+            <idno type="EEBO-CITATION">99862296</idno>
+            <idno type="PROQUEST">99862296</idno>
+            <idno type="VID">160430</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78501)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160430)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E401[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain uncertain proposals from freeborn subjects of England, to his Excellency Sir Thomas Fairfax; as they were presented, Aug. 9. 1647. at Croydon in Surrey.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>"In favour of the Kings restoration to power and against the Parliament"--Thomason Catalogue.</note>
+                  <note>Annotation on Thomason copy: "Aug: 12 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Monarchy --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposals">
+            <pb facs="tcp:160430:1" rendition="simple:additions"/>
+            <head>
+               <hi>Certain uncertain Propoſals from Free<g ref="char:EOLhyphen"/>born Subjects of</hi> England, <hi>to his Excel<g ref="char:EOLhyphen"/>lency</hi> Sir Thomas Fairfax; <hi>as they were preſented,</hi> Aug. 9. 1647. <hi>at</hi> Croyden <hi>in</hi> Surrey.</head>
+            <p>WE earneſtly deſire the Kings moſt <hi>Excellent Majeſty</hi> may immediately be brought to <hi>London</hi> with honour, there at pleaſure to recide with ſafety and freedome according to pro<g ref="char:EOLhyphen"/>miſe, and our juſt expectation.</p>
+            <p>VVE likewiſe deſire, that a firm and laſting Peace may be ſpeedily ſetled in this Kingdom, which cannot be if the King be ſpoiled of his indiſputable Rights, and not reſtored to his wiſhed greatneſſe.</p>
+            <p>VVe deſire that ſuch members of
+<pb n="2" facs="tcp:160430:2"/>Par. as have vented any ſpeeches ſediti<g ref="char:EOLhyphen"/>ous &amp; Treaſonous, may beſuſpended from ſitting, in the Houſe &amp; try'd accor<g ref="char:EOLhyphen"/>ding to the known Lawes of the King<g ref="char:EOLhyphen"/>dome; For we have no cauſe to beleeve the ſubject ſhall be Righted in their freedome, if there be not high regards had to the Kings Perſon and Honour.</p>
+            <p>Tis for the Honour of our Nation, to bear our King high; To make him glorious, is to render him formidable to other Princes. Tis much for the honour of Sir <hi>Thomas Fairfax,</hi> in whoſe power it is alone to raiſe him to ſuch ſplendor and height, that his clouded and diſ<g ref="char:EOLhyphen"/>countenanced Subjects receiving a gra<g ref="char:EOLhyphen"/>tious influence from the ſprightly beams of his Sacred <hi>Majeſty;</hi> may be re<g ref="char:EOLhyphen"/>vived and cheriſhed; And we acknow<g ref="char:EOLhyphen"/>ledge Sir <hi>Thomas Fairfax</hi> as the begin<g ref="char:EOLhyphen"/>ner, ſo the perfecter and finiſher of our Peace and Happineſſe.</p>
+         </div>
+         <div type="desires">
+            <pb n="3" facs="tcp:160430:2"/>
+            <head>Theſe are our Deſires, our Feares follow.</head>
+            <p>WE juſtly fear, that while his <hi>Excellency</hi> contended to bring his <hi>Majeſty</hi> to <hi>London,</hi> whether the Par<g ref="char:EOLhyphen"/>liament and City would or no; and they Declaring and Voting him to come, whether his <hi>Excellency</hi> would or no: The King in the Agreement will be left unconſidered, and we forfeit our hopes and Expectation.</p>
+            <p>VVe likewiſe fear, (as we have too ſad occaſion) that a new warre will be ſetled in ſtead of an old Peace; And our loſt diſpirited Iſland imbarque in a ſe<g ref="char:EOLhyphen"/>cond adventure on a Sea of Blood, till we ſuffer ſhipwrack and utter Ruine.</p>
+            <p>VVe ſadly fear the bad deſigne of theſe that ſo boldly aſſume to them<g ref="char:EOLhyphen"/>ſelves</p>
+            <pb n="4" facs="tcp:160430:3"/>
+            <p>VVe ſadly fear the bad Deſigne of theſe that ſo boldly aſſume to them<g ref="char:EOLhyphen"/>ſelves a liberty to traduce his Sacred <hi>Majeſty,</hi> and the worſe Effects it may take on ſome deſperate villaines, while ſuch remain unpuniſhed, unqueſtioned.</p>
+            <p>VVe fear the danger the delay may bring, that a Peace ſo coldly followed, may give advantage to a diligent and o<g ref="char:EOLhyphen"/>ver-active party to imbroil in a ſecond more fierce and terrible warre.</p>
+            <p>VVe fear the worſt, that our Peace is not nigh, that we are not rightly qua<g ref="char:EOLhyphen"/>lified to entertain her, nor yet brought low enough to receive ſo high a bleſ<g ref="char:EOLhyphen"/>ſing.</p>
+            <p>VVe fear, that if the King be not ſetled ſo wel as the Kingdome, there is no good intention to either.</p>
+            <p>VVe fear God, we Honour and Obey the King.</p>
+         </div>
+         <div type="hopes">
+            <pb n="5" facs="tcp:160430:3"/>
+            <head>Certain Hopes to ſuſtain Comfort, and confirm a timerous and fearfull mind.</head>
+            <p>VVE Hope the worſt is paſt.</p>
+            <p>VVe hope Sir <hi>Thomas Fair<g ref="char:EOLhyphen"/>fax</hi> wil according to his promiſe bring the King to London with Honour, ſafe<g ref="char:EOLhyphen"/>ty, and Freedome; we hope to ſee it ſuddenly, without which we can hope for no good.</p>
+            <p>VVe hope it is not the intent of this al<g ref="char:EOLhyphen"/>conquering Army, to diminiſh, much leſſe to extinguiſh the Glorious Lamp of <hi>Majeſty,</hi> being ſo well aſſured, if the King burn dimne, his People will go out like the ſnuffe of a candle: If <hi>Maje<g ref="char:EOLhyphen"/>ſty</hi> be defaced in the Royal ſtamp, his Subjects will not paſſe for currant Coyne.</p>
+            <pb n="6" facs="tcp:160430:4"/>
+            <p>VVe hope to ſee the King in his full Greatneſſe and Splendot, and that his <hi>Excellency</hi> will adde to his Glory, not Subſtract, nor clip the wings of <hi>Majeſty.</hi>
+            </p>
+            <p>VVe hope his <hi>Excellency</hi> will make good all his promiſes in his Declaration and much more: VVe hope to ſee it performed ſpeedily without delay; And were it not for theſe hopes, our hearts would break.</p>
+         </div>
+         <div type="queries">
+            <pb n="7" facs="tcp:160430:4"/>
+            <head>Certaine Pertinent and Neceſ<g ref="char:EOLhyphen"/>ſary <hi>Queries.</hi>
+            </head>
+            <p>
+               <label>Q.</label> 
+               <hi>VVHether the Free-born People of</hi> England <hi>will ever tollerate any Tolleration of Covern<g ref="char:EOLhyphen"/>ment in this kind: Or they will not be impa<g ref="char:EOLhyphen"/>tient of any thought to deſtroy</hi> Monarchie, <hi>whoſe yoke is eaſie, and burden light?</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Whether</hi> Monarchie <hi>can be deſtroy<g ref="char:EOLhyphen"/>ed in the Perſon of the King; Whoſe nu<g ref="char:EOLhyphen"/>merous iſſue gives Aſſurance we cannot be happy in any other Government?</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Whether the whole world would not riſe to revenge any violence done to his</hi> Ma<g ref="char:EOLhyphen"/>jeſties <hi>Sacred Perſon, as hath been often threatened? And whether every good ſub<g ref="char:EOLhyphen"/>ject hating the impious thoughts of ſo hor<g ref="char:EOLhyphen"/>rid an Act, ought not to endeavour the bringing of ſuch to Condigne puniſhment?</hi>
+            </p>
+            <pb n="8" facs="tcp:160430:5"/>
+            <p>
+               <label>Q.</label> 
+               <hi>Whether it be not the beſt way to ſet<g ref="char:EOLhyphen"/>tle the Kingdome in a firm Peace, firſt to ſeate and eſtabliſh the King in his Royall Throne? without which our prepoſterous Peace cannot be laſting.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Whether the Peoples Peace and Happineſſe depends not altogether on the ſafety and Honour of the King?</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Whether there be not a neceſſity of his</hi> Majeſties <hi>ſpeedy comming to</hi> London? <hi>And whether there can be any compoſure of the preſent diſtraction, and ſatisfaction to the People without this?</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
